@@ -148,5 +148,10 @@ Now merge any changes that were made in the original repository’s master branc
 At this point, you are ready to make a pull request to the original repository.
 
 Navigate to your forked repository, and press the “New pull request” button on your left-hand side of your Repo page.
+# deps.cloud 
+Hacktoberfest tooling
 
+This repository contains tooling to help support organizations participating in [Hacktoberfest].
+
+[Hacktoberfest]: https://hacktoberfest.digitalocean.com/
 # Hurray! You just got closer to completing your Hacktoberfest challenge.
